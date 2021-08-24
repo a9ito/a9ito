@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/a9ito/a9ito/raw/master/GitHubBanner.png"><br>
+  <img src="https://raw.githubusercontent.com/a9ito/a9ito/main/GitHubBanner.png"><br>
 </p>
